@@ -1,3 +1,5 @@
+Deployment on single node provisioned using vagrant.
+
 makrand@mint-gl63:~/vagrant_ssd/ubuntu18$ rke up
 INFO[0000] Running RKE version: v1.1.0                  
 INFO[0000] Initiating Kubernetes cluster                
